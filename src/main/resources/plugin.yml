@@ -1,0 +1,5 @@
+name: SimpleStatsAPI
+version: 1.0.0
+main: com.edgeoforder.stats.SimpleStatsAPI
+api-version: 1.16
+description: Собирает статистику и отдаёт через HTTP API
