@@ -17,7 +17,7 @@ A lightweight Bukkit/Paper plugin that collects player statistics and exposes th
 
 🚀 Installation
 
-1. Download the latest `SimpleStatsAPI.jar` from the [Releases](https://github.com/edgeoforder/SimpleStatsAPI/releases) page.
+1. Download the latest `SimpleStatsAPI.jar` from the [Releases](https://github.com/404Nick/SimpleStatsAPI/releases/tag/server-monitoring) page.
 2. Place the JAR file into your server's `plugins/` folder.
 3. Start or restart your Paper server (version 1.21.1 or compatible).
 4. The plugin will generate a default `config.yml` and create the database file on first run.
